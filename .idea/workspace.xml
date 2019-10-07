@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1029">
-              <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+            <state relative-caret-position="221">
+              <caret line="70" column="52" lean-forward="true" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,10 +39,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quiz.txt">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="77">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -75,8 +75,8 @@
         <option value="$PROJECT_DIR$/text.txt" />
         <option value="$PROJECT_DIR$/src/com/company/text.txt" />
         <option value="$PROJECT_DIR$/src/com/company/Question.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/quiz.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -98,6 +98,17 @@
             <path>
               <item name="Zliczanie-wyrazow-i-liter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Zliczanie-wyrazow-i-liter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zliczanie-wyrazow-i-liter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zliczanie-wyrazow-i-liter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zliczanie-wyrazow-i-liter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zliczanie-wyrazow-i-liter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,15 +180,16 @@
       <workItem from="1570184437030" duration="675000" />
       <workItem from="1570185873865" duration="633000" />
       <workItem from="1570193793607" duration="4516000" />
-      <workItem from="1570434813885" duration="7812000" />
+      <workItem from="1570434813885" duration="8494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108069000" />
+    <option name="totallyTimeSpent" value="108751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5097561" visible="true" weight="0.2196162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -337,13 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quiz.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -351,10 +356,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+        <state relative-caret-position="221">
+          <caret line="70" column="52" lean-forward="true" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

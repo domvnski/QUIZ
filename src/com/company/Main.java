@@ -15,7 +15,7 @@ public class Main {
         try {
             FileReader fileReader = new FileReader("quiz.txt");
             Scanner fileScanner = new Scanner(fileReader);
-            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+            //BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
             Scanner scanner = new Scanner(System.in);
 
             System.out.println("////// QUIZ //////");
@@ -76,16 +76,12 @@ public class Main {
         }
     }
 
-    public static boolean isRightAnswerFormat(String answer) {
-        if (answer.equals("A") || answer.equals("B") || answer.equals("C") || answer.equals("D"))
-            return true;
-        else return false;
+    private static boolean isRightAnswerFormat(String answer) {
+        return answer.equals("A") || answer.equals("B") || answer.equals("C") || answer.equals("D");
     }
 
-    public static boolean isRightAnswerFormat(Character answer) {
-        if (answer.equals('A') || answer.equals('B') || answer.equals('C') || answer.equals('D'))
-            return true;
-        else return false;
+    private static boolean isRightAnswerFormat(Character answer) {
+        return answer.equals('A') || answer.equals('B') || answer.equals('C') || answer.equals('D');
     }
 }
 
